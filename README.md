@@ -13,14 +13,14 @@ The dataset used in this project consists of a large collection of articles from
 ## Requirements
 The following libraries and tools are required to run this project:
 
-Python (version 3.9.x)
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-LightGBM
-CatBoost
+- Python (version 3.9.x)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- LightGBM
+- CatBoost
 
 ## Methodology
 
@@ -38,4 +38,4 @@ In conclusion, this project aims to analyze and predict the helpfulness percenta
 
 ## Project on Kaggle
 
-Link:
+Link: https://www.kaggle.com/slimbensalah/wikihow-helpfulness-prediction-eda-modeling
